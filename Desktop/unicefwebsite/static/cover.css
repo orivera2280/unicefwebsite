@@ -19,7 +19,7 @@
 body {
   text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
   box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
-  background-image: url(https://pbs.twimg.com/card_img/1566970715563520001/OYG0fUtT?format=png&name=900x900);
+  background-image: url(https://pbs.twimg.com/card_img/1566970715563520001/OYG0fUtT?format=png&name=900x900)!important;
 }
 
 .cover-container {
